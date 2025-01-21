@@ -1,4 +1,4 @@
-# promise-protect
+# Promise-protect
 
 Protect promise-returning functions from being called more than once in
 parallel.
